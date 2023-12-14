@@ -1,0 +1,14 @@
+C:\Users\paulo\Documents\Codar\BeeCrowd Tests - C#\1114 - Senha Fixa\1114 - Senha Fixa\bin\Debug\net8.0\1114 - Senha Fixa.exe
+C:\Users\paulo\Documents\Codar\BeeCrowd Tests - C#\1114 - Senha Fixa\1114 - Senha Fixa\bin\Debug\net8.0\1114 - Senha Fixa.deps.json
+C:\Users\paulo\Documents\Codar\BeeCrowd Tests - C#\1114 - Senha Fixa\1114 - Senha Fixa\bin\Debug\net8.0\1114 - Senha Fixa.runtimeconfig.json
+C:\Users\paulo\Documents\Codar\BeeCrowd Tests - C#\1114 - Senha Fixa\1114 - Senha Fixa\bin\Debug\net8.0\1114 - Senha Fixa.dll
+C:\Users\paulo\Documents\Codar\BeeCrowd Tests - C#\1114 - Senha Fixa\1114 - Senha Fixa\bin\Debug\net8.0\1114 - Senha Fixa.pdb
+C:\Users\paulo\Documents\Codar\BeeCrowd Tests - C#\1114 - Senha Fixa\1114 - Senha Fixa\obj\Debug\net8.0\1114 - Senha Fixa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\Documents\Codar\BeeCrowd Tests - C#\1114 - Senha Fixa\1114 - Senha Fixa\obj\Debug\net8.0\1114 - Senha Fixa.AssemblyInfoInputs.cache
+C:\Users\paulo\Documents\Codar\BeeCrowd Tests - C#\1114 - Senha Fixa\1114 - Senha Fixa\obj\Debug\net8.0\1114 - Senha Fixa.AssemblyInfo.cs
+C:\Users\paulo\Documents\Codar\BeeCrowd Tests - C#\1114 - Senha Fixa\1114 - Senha Fixa\obj\Debug\net8.0\1114 - Senha Fixa.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Documents\Codar\BeeCrowd Tests - C#\1114 - Senha Fixa\1114 - Senha Fixa\obj\Debug\net8.0\1114 - Senha Fixa.dll
+C:\Users\paulo\Documents\Codar\BeeCrowd Tests - C#\1114 - Senha Fixa\1114 - Senha Fixa\obj\Debug\net8.0\refint\1114 - Senha Fixa.dll
+C:\Users\paulo\Documents\Codar\BeeCrowd Tests - C#\1114 - Senha Fixa\1114 - Senha Fixa\obj\Debug\net8.0\1114 - Senha Fixa.pdb
+C:\Users\paulo\Documents\Codar\BeeCrowd Tests - C#\1114 - Senha Fixa\1114 - Senha Fixa\obj\Debug\net8.0\1114 - Senha Fixa.genruntimeconfig.cache
+C:\Users\paulo\Documents\Codar\BeeCrowd Tests - C#\1114 - Senha Fixa\1114 - Senha Fixa\obj\Debug\net8.0\ref\1114 - Senha Fixa.dll
